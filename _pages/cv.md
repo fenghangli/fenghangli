@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2028 (expected)
-* M.S. in Wuhan University, 2021-2024
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Management, Tinghua University, 2024- 
+* M.S. in Economics, Wuhan University, 2021-2024
+* B.S. in Economics, Zhengzhou University, 2017-2021
 
 Work experience
 ======
