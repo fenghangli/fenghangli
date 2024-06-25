@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2026 (expected)
+* Ph.D in Version Control Theory, GitHub University, 2028 (expected)
 * M.S. in Wuhan University, 2021-2024
 * B.S. in GitHub, GitHub University, 2012
 
